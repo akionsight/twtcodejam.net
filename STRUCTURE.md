@@ -1,6 +1,6 @@
 # Directory Structure of the source code of the code jam repo
 
-The following is the directory structure for the code jam website for easier understanding of the code base
+The following is the directory structure for the code jam website for easier understanding of the codebase
 
 
 ```
